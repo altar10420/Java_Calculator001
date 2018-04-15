@@ -34,23 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="History.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/plaltar/History.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Validator.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Validator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/plaltar/Validator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="391">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -145,9 +133,9 @@
         <option value="$PROJECT_DIR$/src/main/java/org/plaltar/Sandbox.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/plaltar/MultiplyOperation.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/plaltar/DivideOperation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/plaltar/Validator.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/plaltar/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/plaltar/History.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/plaltar/Validator.java" />
       </list>
     </option>
   </component>
@@ -262,6 +250,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959569" />
@@ -677,13 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/plaltar/Validator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/plaltar/Operation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -731,6 +713,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/plaltar/History.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/plaltar/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -741,13 +733,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/plaltar/History.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/plaltar/Validator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="391">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>

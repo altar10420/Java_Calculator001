@@ -16,6 +16,5 @@ public class Validator {
             System.out.println("Błędnie wybrana opcja!");
             inputCheck = 0;
         }
-
     }
 }
